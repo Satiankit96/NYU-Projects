@@ -7,3 +7,8 @@ Issues -
 - Question 5 and 7 need more time.
 
 Quiz 1 
+Score - 8.1/10
+
+- got 2 MCQ wrong 
+- both belong to resnet and CNN. 
+- Imp link - https://arxiv.org/abs/1512.03385
