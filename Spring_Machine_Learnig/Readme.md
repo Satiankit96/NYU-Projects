@@ -12,3 +12,10 @@ Score - 8.1/10
 - got 2 MCQ wrong 
 - both belong to resnet and CNN. 
 - Imp link - https://arxiv.org/abs/1512.03385
+
+Assightment 2 - 12th March 
+
+Issues - 
+- Question 10 needs to be visited. The eclipse was not coming for all the images.
+- Question needs to be checked again tomorrow.
+- Need to attend the 
